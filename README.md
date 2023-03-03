@@ -17,32 +17,32 @@ Describe your project in one sentence.
 
 ## Description
 
-Provide a brief overview of your project, including its purpose and any features it offers.
+This is a movie app that allows users to search for movies and view details such as the movie title, poster image, release year, rating, and synopsis. The app also provides recommendations for similar movies based on the selected movie. Users can create an account to save their favorite movies and create watchlists. The app is built using React and utilizes the TMDB API for movie data.
 
 ## Demo
 
-Include a link to a live demo of your project, if available.
+Coming soon
 
 ## Technologies
 
-List the technologies you used to create your project.
+React, NxtJS, TailwindCSS
 
 ## Installation
 
-Include step-by-step instructions on how to install and run your project locally.
+Coming soon
 
 ## Usage
 
-Provide information on how to use your project, including any command line instructions or user interface details.
+Coming soon.
 
 ## Contributing
 
-Include information on how others can contribute to your project, including any guidelines or requirements for contributing.
+Coming soon
 
 ## License
 
-Include information on the license your project is released under.
+Coming soon
 
 ## Contact
 
-Provide your contact information, including email address and any social media handles or other relevant links.
+Coming soon
