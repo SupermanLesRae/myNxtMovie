@@ -1,2 +1,3 @@
 # myNxtMovie
-fing my next movie
+
+findng my next movie
